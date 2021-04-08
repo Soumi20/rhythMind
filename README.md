@@ -36,7 +36,7 @@ After cloning the repo
 - This will start the project automatically on `localhost:3000`.
 
 ## Technologies Used
-We utilized various technologies ranging from animation tools, web development tools, scripting languages and multiple APIs to build ‘rythMind’. 
+We utilized various technologies ranging from animation tools, web development tools, scripting languages and multiple APIs to build ‘rhythMind’. 
 - Front end languages: HTML5, CSS3, Javascript, AJAX
 - Front end framework: Bootstrap to design the user interface (UI)
 - Backend: Node.js, Express.js
